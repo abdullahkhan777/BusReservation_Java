@@ -1,0 +1,16 @@
+Islamabad-Lahore
+101
+false
+2500
+01
+9:00am
+3:40pm
+Lahore-Islamabad
+102
+true
+2800
+02
+9:40am
+4:10pm
+
+
